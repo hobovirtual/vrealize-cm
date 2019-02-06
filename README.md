@@ -1,7 +1,6 @@
 # vRealize Content Management
 
 ## Disclaimer
-\-------------\
 
 This code is not officially supported and is provided as is.
 Although I intend to maintain these as best as i can, the code below may stop working with future release.
